@@ -1,0 +1,123 @@
+(W) 2023-12-28T20:53:58 - Detected unclean program exit. Using fallback file to restore settings: /config/qBittorrent/qBittorrent_new.conf
+(N) 2023-12-28T20:53:58 - qBittorrent v4.6.2 started
+(N) 2023-12-28T20:53:58 - Using config directory: /config/qBittorrent
+(N) 2023-12-28T20:53:58 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2023-12-28T20:53:58 - Peer ID: "-qB4620-"
+(I) 2023-12-28T20:53:58 - HTTP User-Agent: "qBittorrent/4.6.2"
+(I) 2023-12-28T20:53:58 - Distributed Hash Table (DHT) support: ON
+(I) 2023-12-28T20:53:58 - Local Peer Discovery support: ON
+(I) 2023-12-28T20:53:58 - Peer Exchange (PeX) support: ON
+(I) 2023-12-28T20:53:58 - Anonymous mode: OFF
+(I) 2023-12-28T20:53:58 - Encryption support: ON
+(I) 2023-12-28T20:53:58 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2023-12-28T20:53:58 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2023-12-28T20:53:58 - Successfully listening on IP. IP: "192.168.128.2". Port: "TCP/6881"
+(I) 2023-12-28T20:53:58 - Successfully listening on IP. IP: "192.168.128.2". Port: "UTP/6881"
+(W) 2023-12-28T20:53:58 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2023-12-28T20:53:58 - Using built-in WebUI.
+(W) 2023-12-28T20:53:58 - Couldn't load WebUI translation for selected locale (C).
+(N) 2023-12-28T20:53:58 - WebUI: Now listening on IP: *, port: 8080
+(N) 2023-12-28T20:53:59 - qBittorrent termination initiated
+(W) 2023-12-28T20:54:02 - Detected unclean program exit. Using fallback file to restore settings: /config/qBittorrent/qBittorrent_new.conf
+(N) 2023-12-28T20:54:02 - qBittorrent v4.6.2 started
+(N) 2023-12-28T20:54:02 - Using config directory: /config/qBittorrent
+(N) 2023-12-28T20:54:02 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2023-12-28T20:54:02 - Peer ID: "-qB4620-"
+(I) 2023-12-28T20:54:02 - HTTP User-Agent: "qBittorrent/4.6.2"
+(I) 2023-12-28T20:54:02 - Distributed Hash Table (DHT) support: ON
+(I) 2023-12-28T20:54:02 - Local Peer Discovery support: ON
+(I) 2023-12-28T20:54:02 - Peer Exchange (PeX) support: ON
+(I) 2023-12-28T20:54:02 - Anonymous mode: OFF
+(I) 2023-12-28T20:54:02 - Encryption support: ON
+(I) 2023-12-28T20:54:02 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2023-12-28T20:54:02 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2023-12-28T20:54:02 - Successfully listening on IP. IP: "192.168.128.2". Port: "TCP/6881"
+(I) 2023-12-28T20:54:02 - Successfully listening on IP. IP: "192.168.128.2". Port: "UTP/6881"
+(W) 2023-12-28T20:54:02 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2023-12-28T20:54:02 - Using built-in WebUI.
+(W) 2023-12-28T20:54:02 - Couldn't load WebUI translation for selected locale (C).
+(N) 2023-12-28T20:54:02 - WebUI: Now listening on IP: *, port: 8080
+(I) 2023-12-28T20:54:05 - Detected external IP. IP: "178.121.0.68"
+(I) 2023-12-28T20:54:05 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Dec 1 01:11:53 2023.
+(I) 2023-12-28T20:54:05 - Successfully updated IP geolocation database.
+(W) 2023-12-28T20:54:13 - WebUI: Invalid Host header, port mismatch. Request source IP: '::ffff:192.168.128.1'. Server port: '8080'. Received Host header: '0.0.0.0:8085'
+(W) 2023-12-28T20:54:13 - WebUI: Invalid Host header, port mismatch. Request source IP: '::ffff:192.168.128.1'. Server port: '8080'. Received Host header: '0.0.0.0:8085'
+(W) 2023-12-28T20:55:43 - WebUI: Invalid Host header, port mismatch. Request source IP: '::ffff:192.168.128.1'. Server port: '8080'. Received Host header: '0.0.0.0:8085'
+(W) 2023-12-28T20:55:43 - WebUI: Invalid Host header, port mismatch. Request source IP: '::ffff:192.168.128.1'. Server port: '8080'. Received Host header: '0.0.0.0:8085'
+(W) 2023-12-28T20:55:44 - WebUI: Invalid Host header, port mismatch. Request source IP: '::ffff:192.168.128.1'. Server port: '8080'. Received Host header: '0.0.0.0:8085'
+(W) 2023-12-28T20:55:44 - WebUI: Invalid Host header, port mismatch. Request source IP: '::ffff:192.168.128.1'. Server port: '8080'. Received Host header: '0.0.0.0:8085'
+(W) 2023-12-28T20:55:48 - WebUI: Invalid Host header, port mismatch. Request source IP: '::ffff:192.168.128.1'. Server port: '8080'. Received Host header: '0.0.0.0:8085'
+(W) 2023-12-28T20:55:48 - WebUI: Invalid Host header, port mismatch. Request source IP: '::ffff:192.168.128.1'. Server port: '8080'. Received Host header: '0.0.0.0:8085'
+(W) 2023-12-28T20:55:54 - WebUI: Invalid Host header, port mismatch. Request source IP: '::ffff:192.168.128.1'. Server port: '8080'. Received Host header: '0.0.0.0:8085'
+(W) 2023-12-28T20:55:54 - WebUI: Invalid Host header, port mismatch. Request source IP: '::ffff:192.168.128.1'. Server port: '8080'. Received Host header: '0.0.0.0:8085'
+(N) 2023-12-28T20:55:58 - qBittorrent termination initiated
+(N) 2023-12-28T20:55:58 - qBittorrent is now ready to exit
+(N) 2023-12-28T20:56:03 - qBittorrent v4.6.2 started
+(N) 2023-12-28T20:56:03 - Using config directory: /config/qBittorrent
+(N) 2023-12-28T20:56:03 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2023-12-28T20:56:03 - Peer ID: "-qB4620-"
+(I) 2023-12-28T20:56:03 - HTTP User-Agent: "qBittorrent/4.6.2"
+(I) 2023-12-28T20:56:03 - Distributed Hash Table (DHT) support: ON
+(I) 2023-12-28T20:56:03 - Local Peer Discovery support: ON
+(I) 2023-12-28T20:56:03 - Peer Exchange (PeX) support: ON
+(I) 2023-12-28T20:56:03 - Anonymous mode: OFF
+(I) 2023-12-28T20:56:03 - Encryption support: ON
+(I) 2023-12-28T20:56:03 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2023-12-28T20:56:03 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2023-12-28T20:56:03 - Successfully listening on IP. IP: "192.168.144.2". Port: "TCP/6881"
+(I) 2023-12-28T20:56:03 - Successfully listening on IP. IP: "192.168.144.2". Port: "UTP/6881"
+(I) 2023-12-28T20:56:03 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Dec 1 01:11:53 2023.
+(N) 2023-12-28T20:56:04 - Using built-in WebUI.
+(W) 2023-12-28T20:56:04 - Couldn't load WebUI translation for selected locale (C).
+(N) 2023-12-28T20:56:04 - WebUI: Now listening on IP: *, port: 8080
+(I) 2023-12-28T20:56:06 - Detected external IP. IP: "178.121.0.68"
+(N) 2023-12-28T20:56:29 - qBittorrent termination initiated
+(N) 2023-12-28T20:56:29 - qBittorrent is now ready to exit
+(N) 2023-12-28T20:56:34 - qBittorrent v4.6.2 started
+(N) 2023-12-28T20:56:34 - Using config directory: /config/qBittorrent
+(N) 2023-12-28T20:56:34 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2023-12-28T20:56:34 - Peer ID: "-qB4620-"
+(I) 2023-12-28T20:56:34 - HTTP User-Agent: "qBittorrent/4.6.2"
+(I) 2023-12-28T20:56:34 - Distributed Hash Table (DHT) support: ON
+(I) 2023-12-28T20:56:34 - Local Peer Discovery support: ON
+(I) 2023-12-28T20:56:34 - Peer Exchange (PeX) support: ON
+(I) 2023-12-28T20:56:34 - Anonymous mode: OFF
+(I) 2023-12-28T20:56:34 - Encryption support: ON
+(I) 2023-12-28T20:56:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2023-12-28T20:56:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2023-12-28T20:56:34 - Successfully listening on IP. IP: "192.168.160.2". Port: "TCP/6881"
+(I) 2023-12-28T20:56:34 - Successfully listening on IP. IP: "192.168.160.2". Port: "UTP/6881"
+(I) 2023-12-28T20:56:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Dec 1 01:11:53 2023.
+(N) 2023-12-28T20:56:34 - Using built-in WebUI.
+(W) 2023-12-28T20:56:34 - Couldn't load WebUI translation for selected locale (C).
+(N) 2023-12-28T20:56:34 - WebUI: Now listening on IP: *, port: 8085
+(I) 2023-12-28T20:56:36 - Detected external IP. IP: "178.121.0.68"
+(W) 2023-12-28T20:57:16 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:192.168.160.1, username: admin
+(W) 2023-12-28T20:57:33 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:192.168.160.1, username: admin
+(W) 2023-12-28T20:57:39 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:192.168.160.1, username: admin
+(N) 2023-12-28T21:02:38 - qBittorrent termination initiated
+(N) 2023-12-28T21:02:38 - qBittorrent is now ready to exit
+(N) 2023-12-28T21:03:48 - qBittorrent v4.6.0 started
+(N) 2023-12-28T21:03:48 - Using config directory: /config/qBittorrent
+(N) 2023-12-28T21:03:48 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2023-12-28T21:03:48 - Peer ID: "-qB4600-"
+(I) 2023-12-28T21:03:48 - HTTP User-Agent: "qBittorrent/4.6.0"
+(I) 2023-12-28T21:03:48 - Distributed Hash Table (DHT) support: ON
+(I) 2023-12-28T21:03:48 - Local Peer Discovery support: ON
+(I) 2023-12-28T21:03:48 - Peer Exchange (PeX) support: ON
+(I) 2023-12-28T21:03:48 - Anonymous mode: OFF
+(I) 2023-12-28T21:03:48 - Encryption support: ON
+(I) 2023-12-28T21:03:48 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2023-12-28T21:03:48 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2023-12-28T21:03:48 - Successfully listening on IP. IP: "192.168.176.2". Port: "TCP/6881"
+(I) 2023-12-28T21:03:48 - Successfully listening on IP. IP: "192.168.176.2". Port: "UTP/6881"
+(I) 2023-12-28T21:03:48 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Dec 1 01:11:53 2023.
+(N) 2023-12-28T21:03:48 - Using built-in Web UI.
+(W) 2023-12-28T21:03:48 - Couldn't load Web UI translation for selected locale (C).
+(N) 2023-12-28T21:03:48 - Web UI: Now listening on IP: *, port: 8085
+(I) 2023-12-28T21:03:51 - Detected external IP. IP: "178.121.0.68"
+(N) 2023-12-28T21:04:05 - WebAPI login success. IP: ::ffff:192.168.176.1
+(N) 2023-12-28T21:12:18 - Added new torrent. Torrent: "[Udemy / Илья Фофанов] Практический курс для новичков по SQL и PostgreSQL [2020, RUS]"
+(N) 2023-12-28T21:51:13 - Torrent download finished. Torrent: "[Udemy / Илья Фофанов] Практический курс для новичков по SQL и PostgreSQL [2020, RUS]"
+(N) 2023-12-28T21:51:30 - Torrent paused. Torrent: "[Udemy / Илья Фофанов] Практический курс для новичков по SQL и PostgreSQL [2020, RUS]"
+(N) 2023-12-28T21:51:31 - Torrent resumed. Torrent: "[Udemy / Илья Фофанов] Практический курс для новичков по SQL и PostgreSQL [2020, RUS]"
